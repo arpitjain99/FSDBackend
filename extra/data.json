@@ -1,0 +1,21 @@
+[{
+    "studentName": "John",
+    "studentAge": 25,
+    "studentCity": "New York"
+},{
+    "studentName": "Doe",
+    "studentAge": 30,
+    "studentCity": "New Jersey"
+},{
+    "studentName": "Smith",
+    "studentAge": 35,
+    "studentCity": "California"
+},{
+    "studentName": "Alex",
+    "studentAge": 40,
+    "studentCity": "Texas"
+},{
+    "studentName": "David",
+    "studentAge": 45,
+    "studentCity": "Florida"
+}]
